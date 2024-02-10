@@ -1,0 +1,1677 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title> GREENIX </title>
+	
+	<link href="https://fonts.googleapis.com/css?family=Josefin+Sans&display=swap" rel="stylesheet">
+	 
+  <link rel="stylesheet" href=
+  "https://fonts.googleapis.com/icon?family=Material+Icons" />
+  <link rel="stylesheet" href=
+  "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" />
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.14.0/css/all.css" integrity="sha384-HzLeBuhoNPvSl5KYnjx0BT+WB0QEEqLprO+NBkkk5gbc67FTaL7XIGa2w1L0Xbgc" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css" integrity="sha512-+4zCK9k+qNFUR5X+cKL9EIR+ZOhtIloNl9GIKS57V1MyNsYpYcUrUeQc9vNfzsWfV28IaLL3i96P9sdNyeRssA==" crossorigin="anonymous" />
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/tailwindcss/2.2.17/tailwind.min.css">
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.2/animate.min.css">
+      <script type="module" src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.esm.js"></script>
+      <script nomodule src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.js"></script>
+      <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.14.0/css/all.css" integrity="sha384-HzLeBuhoNPvSl5KYnjx0BT+WB0QEEqLprO+NBkkk5gbc67FTaL7XIGa2w1L0Xbgc" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css" integrity="sha512-+4zCK9k+qNFUR5X+cKL9EIR+ZOhtIloNl9GIKS57V1MyNsYpYcUrUeQc9vNfzsWfV28IaLL3i96P9sdNyeRssA==" crossorigin="anonymous" />
+   <link rel="stylesheet" href="https://fontawesome.com/icons?d=gallery">
+   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css">
+   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css">
+   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+
+   <!-- Lien vers WOW.js -->
+   <script src="https://cdnjs.cloudflare.com/ajax/libs/wow/1.1.2/wow.min.js"></script>
+  </head>
+  <body class="background" style="margin: 0;">
+  
+  <header>
+    
+  <nav class="navbar" style=" margin-top: 0px;">
+      
+    <img src="logo.png" alt="" width="7%"height="15%" style="margin-top: 0px;" ><p style="display: flex; align-items: center;"><img src="tel.png" alt="" style="margin-right: 10px;">+216 55759343
+  <img src="em.png" alt="" style="margin-right: 10px;">contact.greenix@gmail.com</p>
+  
+  </div>
+    <div class="menu">
+         
+      <a href="#" style="font-size:20px" ><ion-icon name="home"></ion-icon>Acceuil</a>
+          <a href="#about" >A propos</a>
+          <a href="#g" >services</a>
+          
+      <a href="#mo" class="btnone" ><span id="h">Appeler nous<ion-icon name="arrow-redo-circle"></ion-icon></a></div>
+    </div> 
+  </nav>
+  
+    <main >
+      <section ><br><br><br><br><br><br><br>
+        <h1>we mean
+         <span class="change_content"> </span> <span style="margin-top: -10px;">  </span> </h1><br><br><br>
+         <p>Nous visons à être le leader sur le marché et une référence en marketing digital <br>
+           en Accompagnant tout ceux qui souhaitent se démarquer dans le monde digital,<br> promouvoir leur image de marque et rentabiliser leurs projets
+          </p>
+         <a  class="one"><span id="h">En savoir plus</span></a>
+      </section>
+    </main>
+<!-- 
+  <section class="container" id="in">
+    <br><br>
+    <div class="row">
+      <style>
+        /* CSS pour le corps de la page */
+        body {
+          margin: 0;
+          padding: 0;
+          font-family: Arial, sans-serif;
+          background-color: #f2f2f2;
+        }
+    
+        .card-img-top {
+            /* Appliquer la même taille pour toutes les images */
+            width: 320px; /* Ajustez cette valeur selon vos besoins */
+            height: 300px; /* Ajustez cette valeur selon vos besoins */
+            object-fit: cover; /* Assure que l'image est redimensionnée pour s'adapter à la taille définie */
+        }
+        
+      </style>
+    </head>
+    <body>
+     Trois cercles décoratifs avec différentes positions 
+    
+     <div class="col-md-4 mb-4">
+        <div class="card">
+          <img src="R.png" class="card-img-top" alt="Promotion 1">
+          <div class="card-body">
+            <h5 class="card-title">marketing</h5>
+           <p class="card-text"></p>
+            <a href="#" class="btn btn-primary"></a>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-4 mb-4">
+        <div class="card">
+          <img src="co.png" class="card-img-top" alt="Promotion 1">
+          <div class="card-body">
+            <h5 class="card-title">consulting</h5>
+            <p class="card-text"></p>
+           
+            <a href="#" class="btn btn-primary"></a>
+          </div>
+        </div>
+      </div>
+     
+      <div class="col-md-4 mb-4">
+        <div class="card">
+          <img src="fo.png" class="card-img-top" alt="Promotion 2">
+          <div class="card-body">
+            <h5 class="card-title">formation</h5>
+            <p class="card-text"> </p>
+        </div></div></div></div></section></main>-->
+      
+        <section id="about">
+          <div class="container">
+            <div class="content">
+              <h1 style="font-size: 46px;">A propos greenix</h1>
+              <p>Nous accompagnons nos clients dans la mise <br>
+              en place et le suivi de leur stratégie marketing digitale afin d'ateindre leurs objectifs et maximiser leurs visibilités sur le web gràce à notre large gamme de services proposées </p>
+            </div>
+            <div class="animation">
+              <div class="circle"></div>
+            </div>
+            
+          </div>
+        </section>
+        <br><br><br><br>
+
+       
+<br><br>
+      <h1 style="text-align: center;">NOS SERVICES</h1>
+      <hr style="height: 10px;width: 40%;margin-left: 470px;font-weight: 500;color: #000;">
+
+
+
+        <style>
+        
+            .offers-container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+    padding: 20px;
+  }
+
+  .offer {
+    width: 80%;
+    height: 320px;
+    padding: 1%;
+    border: 1px solid #ddd;
+    box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.3);
+    text-align: center;
+    margin-left: 45px;
+    opacity: 0;
+    transform: translateY(20px);
+    transition: opacity 0.5s ease, transform 0.5s ease;
+    position: relative
+    ;
+    overflow: hidden;
+    transition: transform 0.5s ease;
+  }
+
+  .offer:nth-child(1) { animation: slideIn 0.5s forwards; }
+  .offer:nth-child(2) { animation: slideIn 0.5s 0.5s forwards; }
+  .offer:nth-child(3) { animation: slideIn 0.5s 1s forwards; }
+  .offer:nth-child(4) { animation: slideIn 1s 1s forwards; }
+  .offer:nth-child(5) { animation: slideIn 1.5s 1.5s forwards; }
+  .offer:nth-child(6) { animation: slideIn 1.5s 2s forwards; }
+  /* Add similar rules for the remaining offers */
+
+  @keyframes slideIn {
+    to {
+      opacity: 1;
+      transform: translateY(0);
+      
+    }
+  } .offer .hover-image {
+    position: absolute;
+    top: 50px;
+    left: 155px;
+    width: 100%;
+    height: 50%;
+    opacity: 0;
+    transition: opacity 0.3s ease;
+  }
+
+  .offer:hover {
+    transform: scale(2.05);
+  }
+
+  .offer .content {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    opacity: 1;
+    transition: opacity 0.3s ease;
+  }
+
+  .offer:hover .hover-image {
+    opacity: 1;
+  }
+
+  .offer:hover .content {
+    opacity: 0;
+  }
+.offer:hover{
+  background-color: #db9e34;
+}
+  
+        
+          .offer img {
+            max-width: 20%;
+            height: auto;
+          }
+        
+          .offer h3 {
+            margin-top: 10px;
+          }
+        </style>
+       <div class="offers-container">
+          <div class="offer">
+            <div class="content">
+            <img src="st.png" alt="Offre 1">
+          
+            <h3>Stratégie digitale</h3>
+            <p>Boostez votre présence digitale et votre ROI avec l'implémentation de stratégies de communication innovantes et sur-mesure. Notre équipe en marketing digital vous accompagne pour vous orienter vers une stratégie omnicanale et financièrement pertinente.</p>
+          </div>
+          <img class="hover-image" src="1.png" alt="Image au survol"></div>
+          <div class="offer">
+            <div class="content">
+            <img src="3.png" alt="Offre 2">
+            <h3>COMMUNITY MANAGEMENT</h3>
+            <p>Notre agence marketing met à votre disposition des Community Managers experts et à votre service. Sachant gérer les réseaux sociaux, ils travaillent, optimisent et mettent en place une stratégie digitale engageante et créative.</p>
+          </div>
+          <img class="hover-image" src="deux.png" alt="Image au survol"></div>
+          
+          <div class="offer">
+            <div class="content">
+            <img src="4.png" alt="Offre 3">
+            <h3>Création des sites web</h3>
+            <p>Créez un site esthétique et performant pour présenter votre activité, ou un site e-commerce optimisé pour la conversion du trafic pour vendre vos produits en ligne grâce à pure clic, notre agence marketing ! Nous vous aidons à concevoir votre site.</p>
+          </div>    <img class="hover-image" src="trois.png" alt="Image au survol">
+        </div>
+          <div class="offer">
+            <div class="content">
+            <img src="5.png" alt="Offre 4">
+            <h3>Publicité sur réseaux sociaux</h3>
+            <p>Créez des campagnes Social média Ads (Sponsoring) mieux ciblées pour générer plus de vente en ligne. Ciblez des audiences potentiellement intéressées par vos produits et services en travaillant vos placements publicitaires sur les réseaux sociaux, et améliorez votre image de marque.</p>
+          </div>    <img class="hover-image" src="quatre.png" alt="Image au survol"></div>
+          
+          <div class="offer">
+            <div class="content">
+            <img src="2.png" alt="Offre 5">
+            <h3>Veille stratégique</h3>
+            <p>Fournir des informations et des analyses précieuses sur les tendances émergentes, les comportements des consommateurs et effectue une surveillance continue des marchés, des concurrents et des technologies. Avec notre service de veille stratégique, nous aidons nos clients à identifier de nouvelles opportunités, à adapter leurs stratégies et à maximiser leur impact sur le marché.</p>
+          </div><img class="hover-image" src="cinq.png" alt="Image au survol"></div>
+          
+          <div class="offer">
+            <div class="content">
+            <img src="8.png" alt="Offre 6">
+            <h3>Analyse du web</h3>
+            <p>L'analyse de l’audience de votre site web permet de faire ressortir des opportunités d’amélioration et vous donne les clés pour prendre des décisions stratégiques pour la réussite de votre activité en ligne. Notre agence vous aide à tirer avantage des informations collectées sur vos supports digitaux.</p>
+          </div><img class="hover-image" src="six.png" alt="Image au survol"></div>
+      </div>
+        
+      <br><br> 
+
+      <section id="special-section">
+        <div class="background"></div>
+        <div class="container3"  >
+          <div class="node1"></div>
+          <div class="content1" onclick="showAnimation('service3')">
+            <h1>Si vous avez des questions </h1>
+            <br>
+            
+<a  class="one" href="#mo"><span id="h">contacter nous</a>
+          </div>
+        </div>
+      </section>
+
+
+            <style>
+
+
+#special-section {
+  position: relative;
+  background-image: url('gr.jpg');
+  background-size: cover;
+  color: #fff;
+  padding: 100px 0;
+  border-radius: 15px;
+}
+
+.background {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 10%;
+
+  background-size: cover;
+ 
+  z-index: -1;
+}
+
+.container3 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+}
+
+.node {
+  width: 200px;
+  height: 200px;
+  background-color: #00a8cc;
+  border-radius: 50%;
+}
+
+.content1 {
+  padding: 20px;
+  text-align: center;
+}
+
+h1 {
+  font-size: 26px;
+  margin-bottom: 20px;
+}
+
+p {
+  font-size: 18px;
+  line-height: 1.6;
+}
+
+button {
+  background-color: #fff;
+  color: #333;
+}
+#about {
+  padding: 50px;
+  margin-top: 300px;
+}
+.container {
+  display: flex;
+  align-items: center;
+}
+.content {
+  flex: 1;
+  padding-right: 20px;
+}
+
+
+p {
+  font-size: 16px;
+  line-height: 1.6;
+  color: #333333;
+}
+
+.animation {
+  flex: 1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.circle {
+  width: 100px;
+  height: 100px;
+  background-color: #dc930b;
+  border-radius: 100%;
+  animation: scaleAnimation 2s ease-in-out infinite alternate;
+}
+
+@keyframes scaleAnimation {
+  0% {
+    transform: scale(1);
+  }
+  100% {
+    transform: scale(1.2);
+  }
+}
+
+              .navbar {
+              
+  position: fixed;
+  top: 0;
+  left: 0;
+  margin-top: 0%;
+  width: 100%;
+  background-color: #f2f2f2; /* Couleur de fond de la navbar */
+  padding: 10px; /* Espace interne autour des éléments de la navbar */
+  z-index: 100;
+  margin: 0 /* Pour s'assurer que la navbar reste au-dessus du contenu */
+}
+                .j {
+                    font-family: Arial, sans-serif;
+                    display: flex;
+                    justify-content: center;
+                    align-items: center;
+                    height: 100vh;
+                    margin: 0;
+                    background-color: #f2f2f2;
+                }
+                .image-container {
+                    display: flex;
+                    justify-content: center;
+                    align-items: center;
+                    margin-top: 100px;
+                }
+                .image-item {
+                    width: 150px;
+                    height: 150px;
+                    border-radius: 50%;
+                    background-color: #db9e34;
+                    display: flex;
+                    justify-content: center;
+                    align-items: center;
+                    font-size: 30px;
+                    color: #fff;
+                    margin: 10px;
+                    opacity: 0; /* Caché au départ */
+                    transition: opacity 0.5s ease-in-out; /* Transition d'apparition */
+                }
+
+
+                #g{
+                  background-color: #b78f38;
+                }
+                body {
+  font-family: lato;
+  background-color: #f2f2f2;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+#our-work {
+  background-color: #f2f2f2;
+  padding: 50px 0;
+  text-align: center;
+}
+
+.container3 {
+  display: flex;
+  justify-content: space-around;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.item {
+  flex: 1;
+  padding: 20px;
+  background-color: #d3b660;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  border-radius: 50%;
+  width: 150px;
+  height: 150px;
+}
+
+.item h2 {
+  font-size: 36px;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.item p {
+  font-size: 16px;
+  color: #666;
+}
+
+            </style>
+        </head>
+    
+        <style>
+       .services-container {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 30px;
+  margin-top: 100px;
+  height: 600px;
+
+  flex-wrap: wrap; /
+}
+
+.service {
+  display: inline-block;
+  margin: 20px;
+  cursor: pointer;
+  position: relative;
+}
+
+.service img {
+  width: 350px;
+  height: 450px;
+  border-radius: 0%;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+  transition: transform 0.5s;
+}
+
+.service img:hover {
+  transform: scale(1.1);
+  background-color: #2d1bf5;
+}
+
+.text-overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 80.5%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  opacity: 0;
+  transition: opacity 0.3s;
+  background-color: rgba(0, 0, 0, 0.7);
+  border-radius: 5px;
+}
+
+.service:hover .text-overlay {
+  opacity: 1;
+}
+
+.text-overlay h3,
+.text-overlay p {
+  color: white;
+  text-align: center;
+  margin: 5px;
+}
+
+.text-overlay button {
+  padding: 10px 20px;
+  background-color: #16a085; /* Couleur du fond du bouton */
+  color: white; /* Couleur du texte du bouton */
+  border: none;
+  border-radius: 5px;
+  margin-top: 10px;
+  cursor: pointer;
+}
+.values-title {
+    position: relative;
+    font-size: 28px;
+    margin-bottom: 20px;
+    text-align: center;
+    bottom: -180px;
+
+}
+
+.values-title::after {
+    content: "";
+    position: absolute;
+    width: 50px;
+    height: 2px;
+    background-color: #3498db;
+    bottom: -20px;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+
+
+
+
+
+/* styles.css */
+/* Ajoutez vos styles existants ici */
+
+.value {
+    background-color: #ffffff;
+    border-radius: 8px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    padding: 30px;
+    margin: 20px;
+    max-width: 300px;
+    transition: transform 0.3s, box-shadow 0.3s, background-color 0.3s;
+}
+
+.value:hover {
+    background-color: rgba(139, 69, 19, 0.5); /* Marron transparent */
+    box-shadow: 0px 8px 16px rgba(139, 69, 19, 0.4); /* Ombre marron */
+}
+
+
+      </style>
+  </head>
+    <h2 class="values-title">Nos Valeurs</h2>
+  <div class="values-container">
+  
+    <div class="value"  >
+      
+        <div class="icon">
+            <img src="l.png" alt="Écoute">
+        </div>
+        <h3>Écoute</h3>
+        <p>Nous accordons une grande importance à écouter les besoins et les préoccupations de nos clients.</p>
+    </div>
+    <div class="value">
+        <div class="icon">
+            <img src="co.png" alt="Conseil">
+        </div>
+        <h3>Conseil</h3>
+        <p>Nos experts sont là pour fournir des conseils avisés et personnalisés à nos clients.</p>
+    </div>
+    <div class="value">
+        <div class="icon">
+            <img src="la.png" alt="Créativité">
+        </div>
+        <h3>Créativité</h3>
+        <p>Nous encourageons et valorisons la créativité dans toutes nos solutions et approches.</p>
+    </div>
+    <div class="value">
+        <div class="icon">
+            <img src="sa.png" alt="Satisfaction Client">
+        </div>
+        <h3>Satisfaction Client</h3>
+        <p>La satisfaction de nos clients est notre priorité, et nous nous efforçons de dépasser leurs attentes.</p>
+    </div>
+  </div>
+<br><br>  <div class="split-container">  
+  <div class="left-half"><br><br>
+<div style="float: left;"><img src="web2.jpg" alt="" style="margin-left: 30px;width: 100%;height: 100%;"></div></div>
+<div class="right-half" style="width: 70%;">
+  <section  >
+ 
+    <h3 style="font-size: 26px;text-decoration: underline;">Pourquoi Greenix ?</h3>
+    Vous cherchez des solutions technologiques pour optimiser la gestion et l'organisation de vos activités ? <br> Chez Greenix, nous vous proposons des solutions informatiques sur mesure de la plus haute qualité.
+et nous contribuons à accroître la réussite commerciale en tirant parti de la technologie<br><br>
+   dévelppement web
+    <div class="progress" role="progressbar" aria-label="Default striped example" aria-valuenow="10" aria-valuemin="0" aria-valuemax="10">
+    <div class="progress-bar progress-bar-striped" style="width: 90%"></div>
+    </div><br>
+  développement mobile
+  <div class="progress" role="progressbar" aria-label="Success striped example" aria-valuenow="10" aria-valuemin="0" aria-valuemax="10">
+    <div class="progress-bar progress-bar-striped bg-success" style="width: 92%"></div>
+  </div><br>
+  design
+  <div class="progress" role="progressbar" aria-label="Info striped example" aria-valuenow="10" aria-valuemin="0" aria-valuemax="10">
+    <div class="progress-bar progress-bar-striped bg-info" style="width: 95%"></div>
+  </div><br>marketing
+  <div class="progress" role="progressbar" aria-label="Warning striped example" aria-valuenow="10" aria-valuemin="0" aria-valuemax="10">
+    <div class="progress-bar progress-bar-striped bg-warning" style="width: 97%"></div>
+  </div>
+</section></div></div>
+<br><br>
+<style>
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f4f4f4;
+  color: #333;
+}
+.vision-container {
+  text-align: center;
+  padding: 100px 0;
+}
+.vision-title {
+  font-size: 36px;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+.vision-text {
+  font-size: 18px;
+  line-height: 1.6;
+  margin-bottom: 40px;
+}
+.vision-animation {
+  display: inline-block;
+  font-size: 24px;
+  transform-origin: center;
+  animation: rotateAnimation 6s linear infinite;
+}
+@keyframes rotateAnimation {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+</style>
+</head>
+<body>
+<div class="vision-container">
+<h1 class="vision-title">🚀 Notre Vision 🌟</h1>
+<hr style="height: 10px;width: 40%;margin-left: 470px;font-weight: 500;color: #000;">
+<p class="vision-text">Chez <strong>Greenix</strong>, notre vision transcende les frontières du possible.</p>
+<p class="vision-text">Nous n'avons pas peur d'innover, de repousser les limites et d'explorer l'inconnu. br Notre but est de créer des campagnes qui éblouissent, des stratégies qui inspirent et des résultats qui parlent d'eux-mêmes.</p>
+<p class="vision-animation">🌐</p>
+</div>
+</body>
+
+  <section id="g">
+    <h1 style="margin-top: 50px; font-size: 20px;margin-left: 200px;position: absolute;">Mission</h1>
+    <hr >
+    <div class="services-container">
+      <div class="service wow animate__fadeIn" data-wow-delay="0s" onclick="showAnimation('service1')">
+        <img src="p.jpg" alt="Service 1">
+        <div class="text-overlay">
+         
+          <p>Accompagner tout ceux qui souhaitent se démarquer dans le monde digital
+          </p>
+          <button>En savoir plus</button>
+        </div>
+      </div>
+      <div class="service wow animate__fadeIn" data-wow-delay="200ms" onclick="showAnimation('service2')">
+        <img src="o.jpg" alt="Service 2">
+        <div class="text-overlay">
+       
+          <p>Promouvoir  les images de marque de nos clients </p>
+          <button>En savoir plus</button>
+        </div>
+      </div>
+      <div class="service wow animate__fadeIn" data-wow-delay="400ms" onclick="showAnimation('service3')">
+        <img src="u.jpg" alt="Service 3">
+        <div class="text-overlay">
+         
+          <p> et rentabiliser les projets de nos clients
+
+          </p>
+          <button>En savoir plus</button>
+        </div>
+      </div>
+    </div>
+    
+ 
+  
+  </section>
+  
+   
+        <script>
+            function showAnimation(serviceName) {
+                // Votre fonction d'animation ici
+            }
+            document.addEventListener('DOMContentLoaded', function() {
+        new WOW().init();
+    });
+        </script>
+ 
+    
+     
+      </div>
+  </section>
+      <script>
+          function showAnimation(serviceName) {
+              // Votre fonction d'animation ici
+          }
+      </script>
+  </body>
+  
+            <!-- Ajoutez d'autres services de la même manière -->
+            
+            <script>
+                function showAnimation(serviceName) {
+                    // Obtenez l'élément du service
+                    var serviceElement = document.querySelector('.' + serviceName);
+        
+                    // Ajoutez la classe d'animation 'animate__bounceIn' pour l'animation
+                    serviceElement.classList.add('animate__animated', 'animate__bounceIn');
+        
+                    // Supprimez la classe d'animation après l'achèvement de l'animation
+                    serviceElement.addEventListener('animationend', function() {
+                        serviceElement.classList.remove('animate__animated', 'animate__bounceIn');
+                    });
+                }
+            </script>
+        <div class="container1" id="mo"> <a href="l.html" class="btn1">PLUS D'INFORMATIONS</a></div><section class="faq-section">
+          <div class="flex items-center min-h-screen p-6 bg-gray-50 dark:bg-gray-900">
+            <div
+              class="flex-1 h-full max-w-4xl mx-auto overflow-hidden  rounded-lg "
+            >
+              <div class="flex flex-col overflow-y-auto md:flex-row">
+                <div class="h-32 md:h-auto md:w-1/2">
+                  <img
+                    aria-hidden="true"
+                    class="object-cover w-full h-full dark:hidden"
+                    src="login-office.jpeg"
+                    alt="Office"
+                  />
+                  <img
+                    aria-hidden="true"
+                    class="hidden object-cover w-full h-full dark:block"
+                    src="login-office-dark.jpeg"
+                    alt="Office"
+                  />
+                </div>
+               
+                    <!-- You should use a button here, as the anchor is only used for the example  -->
+                    <div class="container">
+                     
+                          <div class="contact-info">
+                              <div class="contact-form">
+                                  <br><br>
+                              <h3 class="title" style="margin-left: 70px;">  Mettons-nous en contact</h3>
+                            
+                             
+                          <div class="contact-form">
+                     
+                          <form 
+  action="https://formspree.io/f/xoqodvao"
+  method="POST"
+>
+                              <h3 class="title">contacter nous</h3>
+                              <div class="input-container">
+                                  <input type="text" name="nom" class="input" placeholder="nom et prénom">
+                                  <label for="">Nom et prénom</label>
+                              </div>
+                              <div class="input-container">
+                                  <label for="">Email</label>
+                                  <input type="email" name="email" class="input" placeholder="email">
+                                
+                              </div>
+                              <div class="input-container">
+                                  <input type="tel" name="phone" class="input" placeholder="numéro du Téléphone">
+                                  <label for=""><ion-icon name="call"></ion-icon>numéro du Téléphone</label>
+                              </div>
+                              
+                              <div class="input-container textarea">
+                                  <textarea name="message"  class="input" placeholder="message"></textarea>
+                                  <label for="">message</label>
+                              </div>
+              <input type="submit" value="envoyer" class="btn"> 
+                    
+              
+          </div>
+          </div>
+          
+        </section>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        <footer  class="footer">
+        
+          <div class="contenu-footer">
+            <img src="logo.png" alt="" width="20%" height="10%"> 
+              <div class="bloc footer-services">
+                 
+                  <ul class="liste-services" style="margin-left: 50px;">
+                      <h3 style="margin-right: 110px;"> services</h3>
+                      <li><a href="">marketing</a></li><br>
+                      <li><a href="">consultation en ligne</a></li><br>
+                      <li><a href="">formations en ligne</a></li><br>
+                  </ul>
+              </div>
+              
+              <div class="bloc footer-services">
+                <ul class="liste-services" style="margin-left: 50px;">
+                  <h3>Restons en contact</h3>
+                  <p><ion-icon name="call"></ion-icon>Tél:55759343</p>
+                  <p><ion-icon name="mail"></ion-icon>Email:contact.greenix@gmail.com</p>
+                  <p><ion-icon name="location"></ion-icon>Adress: 6 way de l'invention </p>
+              </div>
+              <div class="bloc footer-services">
+                <ul class="liste-services" style="margin-left: 50px;">
+                
+                <h3>Réseaux</h3>
+                <ul class="social-links">
+                  <li><a href="#" class="facebook"><i class="fab fa-facebook"></i></a></li>
+                  <li><a href="#" class="twitter"><i class="fab fa-twitter"></i></a></li>
+                  <li><a href="#" class="linkedin"><i class="fab fa-linkedin"></i></a></li>
+                </ul>
+              </div>
+          </div>
+        
+          <div    class="p"><br><p   style="margin-left: 485px; margin-bottom: 0px;">&copy;2023 greenix -tous les droits sont réservés</p></div>
+        </div>
+          </div>
+        </footer>
+       
+      
+        
+  <style>
+    .split-container {
+    display: flex;
+    flex: 3;
+}
+
+.left-half, .right-half {
+    flex: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 60px;
+    box-sizing: border-box;
+    height: 100%;
+}
+
+.left-half {
+    background-color: #f7f7f7; /* Couleur de la moitié gauche */
+}
+    /* styles.css */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f7f7f7;
+}
+
+.values-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background: linear-gradient(to bottom, #f7f7f7, #dcdcdc);
+}
+
+.value {
+    background-color: #ffffff;
+    border-radius: 8px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    padding: 30px;
+    margin: 20px;
+    max-width: 300px;
+    transition: transform 0.3s, box-shadow 0.3s, background-color 0.3s;
+}
+
+.value:hover {
+    transform: translateY(-10px);
+    box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.15);
+    background-color: #f9f9f9;
+    background-color: #db9e34;
+}
+
+.value img {
+    width: 60px;
+    height: 60px;
+    margin-bottom: 20px;
+}
+
+.value h3 {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+.value p {
+    font-size: 16px;
+    color: #666666;
+}
+
+/* ... Autres styles ... */
+
+    .footer-contact h3,
+.footer-services h3,
+.footer-medias h3{
+font-size: 25px;
+padding-bottom: 20px;
+}
+.footer-contact p{
+padding: 5px 0;
+}
+.liste-services,
+.liste-media{
+list-style-type: none;
+
+
+}
+.liste-services li{
+padding: 2px 0;
+align-items: center;
+display: block;
+}
+.liste-services a{
+text-decoration: none;
+color:  #fff;
+}
+.liste-services a:hover{
+color: rgb(3,3,3);
+}
+.liste-media a:hover{
+color: rgb(3,3,3);
+}
+.liste-media{
+position: relative;
+right: 10px;
+}
+.liste-media a{
+text-decoration: none;
+color: #fff;
+display: flex;
+align-items: center;
+font-size: 25px;
+}
+@media screen and(max-width:1300px)
+{
+.contenu-footer{
+  width: 700px;
+  flex-wrap: wrap;
+}
+.bloc{
+  width: 40%;
+  margin: 0 0;
+}
+.bloc:nth-child(1),
+.bloc:nth-child(2)
+{
+  margin-bottom: 50px;
+}
+}
+
+
+
+        .p{
+  justify-content: center;
+  border-top: 2px solid rgb(231, 229, 229);
+  background-color: transparent;
+  font-size: 20px;
+border-spacing: 20px;
+max-width: 1800px;
+height: 40px;
+width: 1565px;
+padding-right: 350px;
+
+
+}
+     .contenu-footer{
+      width: 1000px;
+      margin: 0 auto;
+      display: flex;
+      justify-content: center;
+      align-items: flex-start;
+      font-size: 20px;
+      padding: 30px 0 100px;
+  }
+  
+    #in{
+               box-shadow: 0px 0px 50px #000;
+               background-color: #d8811eda;
+               width: 200%;
+             border-radius: 30px;
+         margin-top: 85px;
+               
+              }
+    .container1 {
+      margin-top: 200px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+      }
+
+      .dot {
+        width: 10px;
+        height: 10px;
+        border-radius: 50%;
+        animation: move 1s ease-in-out infinite;
+        margin: 0 5px;
+      }
+
+      @keyframes move {
+        0% { transform: translateX(0); }
+        100% { transform: translateX(100%); }
+      }
+      
+      .dot1 { background-color: #3498db; }
+      .dot2 { background-color: #9b59b6; animation-delay: 0.2s; }
+      .dot3 { background-color: #e67e22; animation-delay: 0.4s; }
+      .dot4 { background-color: #16a085; animation-delay: 0.6s; }
+      .dot5 { background-color: #f1c40f; animation-delay: 0.8s; }
+
+    
+/* Ajoutez vos styles CSS ici */
+
+/* Ajoutez vos styles CSS ici */
+
+.navbar {
+  background-color: #fff;
+  color: #000;
+  padding: 10px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 0%;
+}
+
+nav {
+  background: #000;
+  width: 100%;
+  padding: 10px 10%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  position: relative;
+  border-bottom: 50px #525252;
+  border-bottom-right-radius: 15px;
+  position: fixed;
+  z-index: 100;
+  margin-top: 0;
+}
+
+.menu a {
+  color: white;
+  text-decoration: none;
+  padding: 10px;
+}
+
+.menu a.btnone {
+  margin-right: 10px;
+}
+
+main {
+  padding: 100px;
+  text-align: center;
+}
+
+section {
+  margin-bottom: 30px;
+}
+
+section h1 {
+  font-size: 40px;
+  font-weight: bold;
+}
+
+.one {
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #000;
+  color: #fff;
+  text-decoration: none;
+  margin-top: 20px;
+  border-radius: 5px;
+  transition: background-color 0.3s;
+}
+
+.one:hover {
+  background-color: #333;
+}
+
+
+.menu a {
+  color: white;
+  text-decoration: none;
+  padding: 10px;
+  position: relative;
+}
+
+.menu a.active::after {
+  content: "";
+  position: absolute;
+  bottom: 0;
+  left: 50%;
+  width: 20px;
+  height: 5px;
+  background-color: white;
+  transform: translateX(-50%);
+}
+
+
+a.btnone {
+
+background:#df8f49;
+color: #000;
+border: 2px solid #f3b34c;
+border-radius: 10px;
+border-width:5 px;
+font-style: oblique;
+font-size: 10px;
+text-shadow: #000;
+top: 20%;
+text-align: none;
+}
+.one:hover{
+  background-color: #b78f38;
+  cursor: pointer;
+  text-decoration: none;
+}
+/*.bone:hover{
+  background-color: #b78f38;
+  cursor: pointer;
+  text-decoration: none;
+}
+.one {
+
+background:transparent;
+color: #000;
+border: 2px solid #fff;
+border-radius: 10px;
+border-width:5 px;
+font-style: oblique;
+font-size: 15px;
+text-shadow: #000;
+position: absolute;
+  top: 80%;
+  left: 288px; 
+  transform: translateY(-50%); 
+  text-decoration: none;
+}
+*/
+  
+p{
+  font-size: 12px ;
+  font-display: flex;
+  position: relative;
+}
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Josefin Sans", sans-serif;
+  }
+  
+  header {
+    width: 100%;
+    height: 100vh;
+   
+    background-repeat: no-repeat;
+    background-size: cover;
+    animation: changebackground 10s ease infinite;
+  }
+ 
+  nav {
+    width: 100%;
+    height: 12vh;
+    background: rgba(0, 0, 0, 0.2);
+    color: black;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    text-transform: uppercase;
+  }
+
+  nav .menu {
+    width: 40%;
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  nav .menu a {
+    width: 25%;
+    text-decoration: none;
+    color: #000;
+    font-weight: bold;
+
+  }
+
+   
+  
+    .navbar a::after{
+      content: ''
+      ;
+      position: absolute;
+      left: 0;
+      bottom: -0.5px;
+      width: 30%;
+      height: 2px;
+      background: #000;
+      border-radius: 8px;
+
+transform: scaleX(0); 
+transition: transform .5s; }
+.navbar a:hover::after{
+transform-origin: left;
+transform:scaleX(2);
+}
+  
+  nav .menu a:first-child {
+    color: #f9822d;
+  }
+  nav .menu a:hover{
+    color: #e2b04b;
+  }
+  
+  main {
+    width: 100%;
+    height: 85vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    color: white;
+  }
+  
+  section h3 {
+    font-size: 35px;
+    font-weight: 200;
+    letter-spacing: 3px;
+    text-shadow: 1px 1px 2px black;
+  }
+  
+  section h1 {
+    margin: 30px 0 20px 0;
+    font-size: 55px;
+    font-weight: 700;
+    text-shadow: 2px 1px 5px black;
+    text-transform: uppercase;
+  }
+  
+  section p {
+    font-size: 25px;
+    word-spacing: 2px;
+    margin-bottom: 25px;
+    text-shadow: 1px 1px 1px black;
+  }
+  
+  section a {
+    padding: 12px 30px;
+    border-radius: 4px;
+    outline: none;
+    text-transform: uppercase;
+    font-size: 13px;
+    font-weight: 500;
+    text-decoration: none;
+    letter-spacing: 1px;
+    transition: all 0.5s ease;
+  }
+  
+  section .btnone {
+
+    background: #97d4e3;
+    color: #000;
+    border: 2px solid #edb335;
+border-style: inherit;
+    border-radius: 10px;
+  }
+  
+
+
+  
+
+  .change_content:after {
+    content: "";
+    animation: changetext 10s infinite linear;
+    color: #de8517;
+    transition: all 0.5s ease;
+  }
+  
+
+
+  @keyframes changetext {
+    0% {
+      content: "business";
+    }
+    50% {
+      content: "success";
+    }
+   
+    100% {
+      content: "growth";
+    }
+   
+   
+  }
+  @keyframes changebackground {
+  0% {
+    background-image: url('d.jpg');
+  }
+  35% {
+    background-image: url('c.jpg');
+  }
+  70% {
+    background-image: url('b.jpg');
+  }
+  100% {
+    background-image: url('k.jpg');
+   
+  }
+  
+ 
+  
+}
+
+.footer {
+  background-color: #2d2c2c; /* Couleur bleue */
+  color: #fff;
+  padding: 40px 0;
+border-top: #2d2c2c;
+border-radius: 80px;
+overflow: hidden;
+bottom: 0px;
+display: block;
+border-radius: 50px 50px 0 0;
+overflow: hidden;
+
+}
+
+.footer h3 {
+  color: #fff;
+}
+
+.footer p {
+  color: #ccc;
+}
+
+.social-links {
+  list-style: none;
+  padding: 0;
+}
+
+.social-links li {
+  display: inline-block;
+  margin-right: 10px;
+}
+
+.social-links a {
+  color: #fff;
+  font-size: 24px;
+}
+
+.social-links a:hover {
+  color: #ccc;
+}
+
+
+
+
+
+form .container{
+    position: relative;
+    width: 780%;
+    min-height: 100vh;
+    padding: 2rem;
+    background-color: #b4c1c4;
+   overflow: hidden;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+
+   
+}
+
+
+.form{
+    width: 100%;
+    max-width: 920px;
+
+    background-color: #b4c1c4;
+    border-radius: 10px;
+    box-shadow: 0 0 20px 1px rgba(0,0,0,0.1);
+    z-index: 1000;
+    overflow: hidden;
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+}
+
+.contact-form{
+    background-color: #b78f38;
+    position: relative;
+    width: 520px;
+overflow:hidden ;
+}
+
+
+
+.contact-form:after{
+content: "";
+position: absolute;
+width: 26px;
+height: 26px;
+overflow: hidden;
+top: 50px;
+left: -13px;
+}
+form{
+    padding: 2.3rem 2.2rem;
+    z-index: 10;
+    overflow: hidden;
+    position: relative;
+
+}
+.title{
+    color: #fff;
+    font-weight: 500;
+    font-size: 1.5rem;
+line-height: 1;
+margin-bottom: 0.7rem;
+margin-left: 50px;
+
+}
+
+.input-container{
+    position: relative;
+    margin: 1rem 0;
+}
+label{
+    display: none;
+}
+
+.input{
+    width: 100%;
+    outline: none;
+    border: 2px solid #fafafa;
+    background: none;
+    padding: 0.6rem 1.2rem;
+    color: #fff;
+    font-weight: 500;
+    font-size: 0.95rem;
+    letter-spacing: 0.5px;
+    border-radius: 25px;
+    transition: 0.3s;
+}
+
+textarea.input{
+padding: 0.8rem 1.2rem;
+min-height: 150px;
+border-radius: 22px;
+resize: none;
+overflow-y: auto;
+}
+.input-container  label{
+    position: absolute;
+    top: 50%;
+    left: 15px;
+    transform: translateY(-50%);
+    padding: 0 0.4rem;
+    color: #fafafa;
+    font-size: 0.9rem;
+    font-weight: 400;
+    pointer-events: none;
+    z-index: 1000;
+    transition: 0.5s;
+
+}
+
+.btn{
+    padding: 0.6rem 0.9rem;
+    background-color: #fff;
+    border: 2px solid #fafafa;
+    font-size: 0.75px;
+    color: #1abc9c;
+    line-height: 1;
+    border-radius: 15px;
+    outline: none;
+    cursor: pointer;
+    transition: 0.3s;
+    margin: 0;
+    width: 80px;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    align-items: center;
+    padding-left: 12px;
+}
+.btn:hover{
+    background-color: transparent;
+    color: #fff;
+}
+.contact-info:before{
+    content: "";
+    position: absolute;
+    width: 110px;
+    border-radius: 50%;
+    height: 100px;
+border: 22px,solid #e69d43;
+right: 50px;
+bottom: -77px;
+opacity: 0.3;
+
+}
+
+    </style><script>
+window.onscroll = function() {
+  // Récupère la position de défilement verticale de la page
+  var scrollTop = window.pageYOffset || document.documentElement.scrollTop;
+  
+  // Si la position de défilement est supérieure à 4 pixels, ajoute une classe "scrolled" à la navbar
+  if (scrollTop > 4) {
+    document.querySelector(".navbar").classList.add("scrolled");
+  } else {
+    // Sinon, retire la classe "scrolled" de la navbar
+    document.querySelector(".navbar").classList.remove("scrolled");
+  }
+};
+// script.js
+const valuesContainer = document.querySelector('.values-carousel');
+const values = document.querySelectorAll('.value');
+const prevBtn = document.querySelector('.prev-btn');
+const nextBtn = document.querySelector('.next-btn');
+const dotsContainer = document.querySelector('.dots');
+
+let currentIndex = 0;
+let interval;
+
+function showValue(index) {
+    values.forEach((value, i) => {
+        value.style.transform = `translateX(${100 * (i - index)}%)`;
+        value.classList.remove('active');
+    });
+    values[index].classList.add('active');
+    updateDots(index);
+}
+
+function nextValue() {
+    currentIndex = (currentIndex + 1) % values.length;
+    showValue(currentIndex);
+}
+
+function prevValue() {
+    currentIndex = (currentIndex - 1 + values.length) % values.length;
+    showValue(currentIndex);
+}
+
+function createDots() {
+    for (let i = 0; i < values.length; i++) {
+        const dot = document.createElement('div');
+        dot.classList.add('dot');
+        dot.addEventListener('click', () => {
+            currentIndex = i;
+            showValue(currentIndex);
+        });
+        dotsContainer.appendChild(dot);
+    }
+    updateDots(currentIndex);
+}
+
+function updateDots(index) {
+    const dots = document.querySelectorAll('.dot');
+    dots.forEach((dot, i) => {
+        dot.classList.toggle('active', i === index);
+    });
+}
+
+nextBtn.addEventListener('click', nextValue);
+prevBtn.addEventListener('click', prevValue);
+
+createDots();
+showValue(currentIndex);
+
+interval = setInterval(nextValue, 5000); // Change de valeur toutes les 5 secondes
+
+valuesContainer.addEventListener('mouseenter', () => {
+    clearInterval(interval);
+});
+
+valuesContainer.addEventListener('mouseleave', () => {
+    interval = setInterval(nextValue, 5000);
+});
+// scripts.js
+const icons = document.querySelectorAll('.icon img');
+
+icons.forEach(icon => {
+    icon.addEventListener('click', () => {
+        icons.forEach(i => i.classList.remove('active'));
+        icon.classList.add('active');
+    });
+});
+
+</script>
+
+</header>
+
+</body>
+
+</html>
